@@ -1,0 +1,20 @@
+{
+    "userdata": [
+        {
+            "email": "user123@surveyor.com",
+            "accessLevel": 0
+        },
+        {
+            "email": "teamhead@distoffice.com",
+            "accessLevel": 1
+        },
+        {
+            "email": "user234@surveyor.com",
+            "accessLevel": 2
+        },
+        {
+            "email": "superuser@admin.com",
+            "accessLevel": 3
+        }
+    ]
+}
